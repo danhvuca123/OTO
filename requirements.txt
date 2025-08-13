@@ -1,0 +1,9 @@
+gradio==4.26.0
+tensorflow~=2.11
+librosa==0.10.1
+matplotlib
+pywavelets
+imageio
+joblib
+scikit-learn
+numpy<2
